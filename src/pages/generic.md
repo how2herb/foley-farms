@@ -1,6 +1,8 @@
 ---
-title: A Generic Page
+title: Instagram
 content_img_path: images/pic04.jpg
+home_spotlights:
+  excerpt: 'Should be some Instagram stuff here, but we''ll see.'
 menus:
   main:
     title: Generic

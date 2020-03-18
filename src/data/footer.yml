@@ -1,7 +1,7 @@
 landing_style: style1-alt
 alt_style: alt
-copyright: '&copy; Hyperspace. All rights reserved.'
+copyright: '&copy; Foley Farms. All rights reserved.'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+  - text: ''
+    url: ''
     new_window: true

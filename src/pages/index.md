@@ -49,9 +49,6 @@ sections:
       - title: Products
         text: Finest in the world.
         icon: fa-diamond
-      - title: Process
-        text: Our unique dry-freeze process.
-        icon: fa-snowflake
     actions:
       - label: Learn more
         url: /generic

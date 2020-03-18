@@ -6,7 +6,7 @@ home_spotlights:
   weight: 3
   excerpt: Crazy cold process
   home_img:
-    path: images/pic03.jpg
+    path: /images/plant.jpg
     data_position: 25% 25%
     url: '#'
 template: page

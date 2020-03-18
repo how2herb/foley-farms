@@ -51,7 +51,7 @@ sections:
         icon: fa-diamond
       - title: Process
         text: Our unique dry-freeze process.
-        icon: fa-snowflakes
+        icon: fa-snowflake
     actions:
       - label: Learn more
         url: /generic

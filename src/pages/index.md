@@ -86,24 +86,19 @@ sections:
     component: Features
   - type: contact
     title: Get in touch
-    text: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+    text: We'd love to here from you.
     section_id: three
     background_style: style1
     contact_list:
       - title: Address
         text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
+          Central Point, OR
           USA
       - title: Email
-        text: user@Hyperspace.tld
+        text: scott.foleyfarms@gmail.com
         url: '#'
       - title: Phone
-        text: (000) 000-0000
+        text: (925) 858-9273
     social:
       title: Social
       social_icons:

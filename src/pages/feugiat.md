@@ -1,12 +1,10 @@
 ---
-title: Feugiat consequat
+title: Our Products
 content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
   weight: 2
-  excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: Seems like it's a lot of cannibus. You tell us.
   home_img:
     path: images/pic02.jpg
     data_position: top center

@@ -46,11 +46,12 @@ sections:
     section_id: two
     background_style: style3
     features_list:
-      - title: Aliquam urna dapibus
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+      - title: Products
+        text: Finest in the world.
         icon: fa-diamond
+      - title: Process
+        text: Our unique dry-freeze process.
+        icon: fa-snowflakes
     actions:
       - label: Learn more
         url: /generic

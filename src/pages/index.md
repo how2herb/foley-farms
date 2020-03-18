@@ -18,13 +18,8 @@ sections:
   - type: intro
     title: Foley Farms
     subtitle: >-
-      Settled within the beautiful Rogue Valley on family owned land since 1964,
-      Foley Farms is a tier  II recreational licensed outdoor operation
-      producing premium material.  Strictly adhering to proven organic methods,
       Foley Farms ventures to deliver the finest quality using the consummate
-      synergy of tried and true organic farming and cutting edge technology.  We
-      are dedicated to producing 100% premium fresh frozen material and whole
-      flower for Oregon processors and retailers.
+      synergy of tried and true organic farming and cutting edge technology.
     section_id: intro
     background_style: style1
     actions:
@@ -41,10 +36,13 @@ sections:
   - type: features
     title: What we do
     subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+      Settled within the beautiful Rogue Valley on family owned land since 1964,
+      Foley Farms is a tier  II recreational licensed outdoor operation
+      producing premium material.  Strictly adhering to proven organic methods,
+      Foley Farms ventures to deliver the finest quality using the consummate
+      synergy of tried and true organic farming and cutting edge technology.  We
+      are dedicated to producing 100% premium fresh frozen material and whole
+      flower for Oregon processors and retailers.
     section_id: two
     background_style: style3
     features_list:
@@ -107,16 +105,10 @@ sections:
           url: 'https://twitter.com/FoleyFarms'
         - title: Facebook
           icon: fa-facebook
-          url: '#'
-        - title: GitHub
-          icon: fa-github
-          url: '#'
+          url: 'https://www.facebook.com/Foleyfarmsllc/'
         - title: Instagram
           icon: fa-instagram
-          url: '#'
-        - title: LinkedIn
-          icon: fa-linkedin
-          url: '#'
+          url: 'https://www.instagram.com/foleyfarms/'
     component: Contact
 menus:
   main:
